@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Kaliyappan/static/css/main.e381caac.css",
+    "main.css": "/Kaliyappan/static/css/main.2c07de4d.css",
     "main.js": "/Kaliyappan/static/js/main.5065825a.js",
     "static/js/787.a6e0be23.chunk.js": "/Kaliyappan/static/js/787.a6e0be23.chunk.js",
     "static/media/services.jpg": "/Kaliyappan/static/media/services.26da4a183a6bd7ab05ed.jpg",
@@ -20,12 +20,12 @@
     "static/media/wdv.png": "/Kaliyappan/static/media/wdv.41d72c93f293038ffd92.png",
     "static/media/apd.png": "/Kaliyappan/static/media/apd.61f7a4d6af7969a3d0ab.png",
     "index.html": "/Kaliyappan/index.html",
-    "main.e381caac.css.map": "/Kaliyappan/static/css/main.e381caac.css.map",
+    "main.2c07de4d.css.map": "/Kaliyappan/static/css/main.2c07de4d.css.map",
     "main.5065825a.js.map": "/Kaliyappan/static/js/main.5065825a.js.map",
     "787.a6e0be23.chunk.js.map": "/Kaliyappan/static/js/787.a6e0be23.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e381caac.css",
+    "static/css/main.2c07de4d.css",
     "static/js/main.5065825a.js"
   ]
 }
