@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Kaliyappan/static/css/main.52e33ed6.css",
-    "main.js": "/Kaliyappan/static/js/main.f48c1726.js",
+    "main.css": "/Kaliyappan/static/css/main.66906d48.css",
+    "main.js": "/Kaliyappan/static/js/main.fc5bd378.js",
     "static/js/787.a6e0be23.chunk.js": "/Kaliyappan/static/js/787.a6e0be23.chunk.js",
     "static/media/btnB.jpg": "/Kaliyappan/static/media/btnB.baa370592999bfc50dce.jpg",
     "static/media/kalisoft.jpg": "/Kaliyappan/static/media/kalisoft.73456f38bc27151958b7.jpg",
@@ -9,25 +9,26 @@
     "static/media/santh.jpg": "/Kaliyappan/static/media/santh.61cbc213373028511062.jpg",
     "static/media/Location.png": "/Kaliyappan/static/media/Location.0ea94bd79aca9338bee8.png",
     "static/media/kali4.jpg": "/Kaliyappan/static/media/kali4.ef59ed1fca5a203394a3.jpg",
-    "static/media/W.png": "/Kaliyappan/static/media/W.a97a6e83dfe6577611d6.png",
     "static/media/loganathan.jpeg": "/Kaliyappan/static/media/loganathan.9675404172d437450639.jpeg",
     "static/media/MissionVisionValuesLogo.png": "/Kaliyappan/static/media/MissionVisionValuesLogo.80916e1ace86de8836ad.png",
     "static/media/kaaali.jpg": "/Kaliyappan/static/media/kaaali.d64cb4859ba520b2fee0.jpg",
     "static/media/menuB.jpg": "/Kaliyappan/static/media/menuB.d77971a28f33a7d6f254.jpg",
     "static/media/service.jpg": "/Kaliyappan/static/media/service.9b000169d5bef47868b7.jpg",
     "static/media/Home.jpg": "/Kaliyappan/static/media/Home.b18fd4453e8febd47363.jpg",
-    "static/media/uiux.png": "/Kaliyappan/static/media/uiux.c3d69370cee578a7db37.png",
+    "static/media/UIUX.png": "/Kaliyappan/static/media/UIUX.76d6e8e3bb996813af65.png",
     "static/media/work.jpg": "/Kaliyappan/static/media/work.ab73322857147cc13a26.jpg",
+    "static/media/APD.png": "/Kaliyappan/static/media/APD.a0950d06895c707986f5.png",
+    "static/media/WP.png": "/Kaliyappan/static/media/WP.5d85eccb5e91a706fee4.png",
     "static/media/King.png": "/Kaliyappan/static/media/King.5671aa3fa818eedbfe24.png",
-    "static/media/wdv.png": "/Kaliyappan/static/media/wdv.41d72c93f293038ffd92.png",
-    "static/media/apd.png": "/Kaliyappan/static/media/apd.61f7a4d6af7969a3d0ab.png",
+    "static/media/FSD.png": "/Kaliyappan/static/media/FSD.bf31a2c0361b1edcde44.png",
+    "static/media/WD.png": "/Kaliyappan/static/media/WD.837278884bf9f504c6f1.png",
     "index.html": "/Kaliyappan/index.html",
-    "main.52e33ed6.css.map": "/Kaliyappan/static/css/main.52e33ed6.css.map",
-    "main.f48c1726.js.map": "/Kaliyappan/static/js/main.f48c1726.js.map",
+    "main.66906d48.css.map": "/Kaliyappan/static/css/main.66906d48.css.map",
+    "main.fc5bd378.js.map": "/Kaliyappan/static/js/main.fc5bd378.js.map",
     "787.a6e0be23.chunk.js.map": "/Kaliyappan/static/js/787.a6e0be23.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.52e33ed6.css",
-    "static/js/main.f48c1726.js"
+    "static/css/main.66906d48.css",
+    "static/js/main.fc5bd378.js"
   ]
 }
