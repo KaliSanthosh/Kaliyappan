@@ -1,11 +1,13 @@
 {
   "files": {
-    "main.css": "/Kaliyappan/static/css/main.66906d48.css",
-    "main.js": "/Kaliyappan/static/js/main.fc5bd378.js",
+    "main.css": "/Kaliyappan/static/css/main.b59982b8.css",
+    "main.js": "/Kaliyappan/static/js/main.b3a22e0e.js",
     "static/js/787.a6e0be23.chunk.js": "/Kaliyappan/static/js/787.a6e0be23.chunk.js",
-    "static/media/btnB.jpg": "/Kaliyappan/static/media/btnB.baa370592999bfc50dce.jpg",
+    "static/media/kavinSolution.png": "/Kaliyappan/static/media/kavinSolution.fde0603c9fda192c4af1.png",
+    "static/media/logu.png": "/Kaliyappan/static/media/logu.6ccecdff10a9ea54d169.png",
     "static/media/kalisoft.jpg": "/Kaliyappan/static/media/kalisoft.73456f38bc27151958b7.jpg",
     "static/media/services.jpg": "/Kaliyappan/static/media/services.26da4a183a6bd7ab05ed.jpg",
+    "static/media/kaliProfile.png": "/Kaliyappan/static/media/kaliProfile.5b8687cb9723338db063.png",
     "static/media/santh.jpg": "/Kaliyappan/static/media/santh.61cbc213373028511062.jpg",
     "static/media/Location.png": "/Kaliyappan/static/media/Location.0ea94bd79aca9338bee8.png",
     "static/media/kali4.jpg": "/Kaliyappan/static/media/kali4.ef59ed1fca5a203394a3.jpg",
@@ -23,12 +25,12 @@
     "static/media/FSD.png": "/Kaliyappan/static/media/FSD.bf31a2c0361b1edcde44.png",
     "static/media/WD.png": "/Kaliyappan/static/media/WD.837278884bf9f504c6f1.png",
     "index.html": "/Kaliyappan/index.html",
-    "main.66906d48.css.map": "/Kaliyappan/static/css/main.66906d48.css.map",
-    "main.fc5bd378.js.map": "/Kaliyappan/static/js/main.fc5bd378.js.map",
+    "main.b59982b8.css.map": "/Kaliyappan/static/css/main.b59982b8.css.map",
+    "main.b3a22e0e.js.map": "/Kaliyappan/static/js/main.b3a22e0e.js.map",
     "787.a6e0be23.chunk.js.map": "/Kaliyappan/static/js/787.a6e0be23.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.66906d48.css",
-    "static/js/main.fc5bd378.js"
+    "static/css/main.b59982b8.css",
+    "static/js/main.b3a22e0e.js"
   ]
 }
