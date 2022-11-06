@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Kaliyappan/static/css/main.b59982b8.css",
-    "main.js": "/Kaliyappan/static/js/main.b3a22e0e.js",
+    "main.css": "/Kaliyappan/static/css/main.1f8ec913.css",
+    "main.js": "/Kaliyappan/static/js/main.3d94e4a1.js",
     "static/js/787.a6e0be23.chunk.js": "/Kaliyappan/static/js/787.a6e0be23.chunk.js",
     "static/media/kavinSolution.png": "/Kaliyappan/static/media/kavinSolution.fde0603c9fda192c4af1.png",
     "static/media/logu.png": "/Kaliyappan/static/media/logu.6ccecdff10a9ea54d169.png",
@@ -25,12 +25,12 @@
     "static/media/FSD.png": "/Kaliyappan/static/media/FSD.bf31a2c0361b1edcde44.png",
     "static/media/WD.png": "/Kaliyappan/static/media/WD.837278884bf9f504c6f1.png",
     "index.html": "/Kaliyappan/index.html",
-    "main.b59982b8.css.map": "/Kaliyappan/static/css/main.b59982b8.css.map",
-    "main.b3a22e0e.js.map": "/Kaliyappan/static/js/main.b3a22e0e.js.map",
+    "main.1f8ec913.css.map": "/Kaliyappan/static/css/main.1f8ec913.css.map",
+    "main.3d94e4a1.js.map": "/Kaliyappan/static/js/main.3d94e4a1.js.map",
     "787.a6e0be23.chunk.js.map": "/Kaliyappan/static/js/787.a6e0be23.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b59982b8.css",
-    "static/js/main.b3a22e0e.js"
+    "static/css/main.1f8ec913.css",
+    "static/js/main.3d94e4a1.js"
   ]
 }
